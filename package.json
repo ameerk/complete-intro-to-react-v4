@@ -1,0 +1,9 @@
+{
+  "name": "complete-intro-to-react-v4",
+  "version": "1.0.0",
+  "description": "react intro course ",
+  "main": "index.js",
+  "repository": "git@github.com:ameerk/complete-intro-to-react-v4.git",
+  "author": "Ameer Khalaf",
+  "license": "MIT"
+}
